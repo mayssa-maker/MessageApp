@@ -18372,6 +18372,82 @@
     "CSharpLanguageVersion": 1000
   },
   "RootNamespace": "MessageApp",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/User/Create.cshtml",
+      "TargetPath": "Views\\User\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Conversation/Create.cshtml",
+      "TargetPath": "Views\\Conversation\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/User/Details.cshtml",
+      "TargetPath": "Views\\User\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Message/Details.cshtml",
+      "TargetPath": "Views\\Message\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Conversation/Delete.cshtml",
+      "TargetPath": "Views\\Conversation\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/User/Index.cshtml",
+      "TargetPath": "Views\\User\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/User/Delete.cshtml",
+      "TargetPath": "Views\\User\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Message/Create.cshtml",
+      "TargetPath": "Views\\Message\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Conversation/Details.cshtml",
+      "TargetPath": "Views\\Conversation\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Conversation/Edit.cshtml",
+      "TargetPath": "Views\\Conversation\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Message/Edit.cshtml",
+      "TargetPath": "Views\\Message\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Conversation/Index.cshtml",
+      "TargetPath": "Views\\Conversation\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/User/Edit.cshtml",
+      "TargetPath": "Views\\User\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Message/Delete.cshtml",
+      "TargetPath": "Views\\Message\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maysa/MessagerApp/MessageAppBack/Views/Message/Index.cshtml",
+      "TargetPath": "Views\\Message\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }
